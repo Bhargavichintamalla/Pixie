@@ -66,8 +66,9 @@ Pixie/
 │
 └── images/
     └── pixie-logo.png
+```
 
-How to Run
+## How to Run
 Option 1: Open Directly in Browser
 1. Download or clone the project.
 2. Open the project folder.
@@ -80,7 +81,7 @@ Option 2: Run Using VS Code Live Server
 4. Click Open with Live Server.
 5. The website will run in your browser.
 
-How to Use
+## How to Use
 Use the sidebar icons to navigate between pages.
 Use the top category menu to switch between image categories.
 Type in the search bar to search images.
@@ -90,6 +91,5 @@ Click on any image to open it in a lightbox preview.
 Use the dark mode icon to switch themes.
 Open the profile page and login to see a welcome popup.
 
-Author
+## Author
 Bhargavi Chintamalla
-```
